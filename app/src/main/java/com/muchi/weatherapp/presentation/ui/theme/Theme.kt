@@ -1,4 +1,4 @@
-package com.muchi.weatherapp.ui.theme
+package com.muchi.weatherapp.presentation.ui.theme
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.runtime.Composable
